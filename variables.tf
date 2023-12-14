@@ -23,5 +23,5 @@ variable "location" {
 }
 
 variable "SQL_CONSTR" {
-  type    = string
+  type = string
 }
