@@ -21,3 +21,7 @@ variable "location" {
   type        = string
   default     = "we"
 }
+
+variable "SQL_CONSTR" {
+  type    = string
+}
